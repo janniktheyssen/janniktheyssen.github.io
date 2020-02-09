@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me, jannik</title>
-    <link>https://janniktheyssen.github.io/</link>
-    <description>Recent content on me, jannik</description>
+    <title>Books on me, jannik</title>
+    <link>https://janniktheyssen.github.io/books/</link>
+    <description>Recent content in Books on me, jannik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 12:21:57 -0500</lastBuildDate>
     
-	<atom:link href="https://janniktheyssen.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://janniktheyssen.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -93,17 +93,6 @@
       <guid>https://janniktheyssen.github.io/books/sapiens/</guid>
       <description>Sapiens by Yuval Noah Harari  Interesting and provocative&amp;hellip; It gives you a sense of perspective on how briefly we’ve been on this earth, how short things like agriculture and science have been around, and why it makes sense for us to not take them for granted. - Barack Obama
  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://janniktheyssen.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://janniktheyssen.github.io/about/</guid>
-      <description>Hello, I&amp;rsquo;m Jannik. This is a picture I took on Sweden&amp;rsquo;s west coast on a beautiful afternoon in January 2020.
-I&amp;rsquo;m a mechanical engineer and acoustician. I love music, food and our planet.
-This is what I do for a living.</description>
     </item>
     
   </channel>

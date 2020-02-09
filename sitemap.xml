@@ -3,8 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://janniktheyssen.github.io/posts/</loc>
-    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+    <loc>https://janniktheyssen.github.io/books/</loc>
+    <lastmod>2020-02-08T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/exhalation/</loc>
+    <lastmod>2020-02-08T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/fiction/</loc>
+    <lastmod>2020-02-08T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/</loc>
+    <lastmod>2020-02-08T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/short-story/</loc>
+    <lastmod>2020-02-08T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/</loc>
+    <lastmod>2020-02-08T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/factfulness/</loc>
+    <lastmod>2020-02-08T01:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/popular-science/</loc>
+    <lastmod>2020-02-08T01:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/climate-action/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/daring_greatly/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/feminism/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/inferior/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/personal-development/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/we_are_the_weather/</loc>
+    <lastmod>2020-02-07T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/behave/</loc>
+    <lastmod>2020-02-06T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/drawdown/</loc>
+    <lastmod>2020-02-06T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/tags/economy/</loc>
+    <lastmod>2020-02-06T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://janniktheyssen.github.io/books/sapiens/</loc>
+    <lastmod>2020-02-05T12:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -16,19 +101,11 @@
   </url>
   
   <url>
-    <loc>https://janniktheyssen.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://janniktheyssen.github.io/gallery/</loc>
   </url>
   
   <url>
     <loc>https://janniktheyssen.github.io/portfolio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://janniktheyssen.github.io/tags/</loc>
   </url>
   
 </urlset>

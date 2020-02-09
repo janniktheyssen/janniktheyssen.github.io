@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>short story on me, jannik</title>
+    <link>https://janniktheyssen.github.io/tags/short-story/</link>
+    <description>Recent content in short story on me, jannik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://janniktheyssen.github.io/tags/short-story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exhalation</title>
+      <link>https://janniktheyssen.github.io/books/exhalation/</link>
+      <pubDate>Sat, 08 Feb 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://janniktheyssen.github.io/books/exhalation/</guid>
+      <description>Exhalation by Ted Ciang  Will make you think, grapple with big questions, and feel more human. The best kind of science fiction. - Barack Obama
+ </description>
+    </item>
+    
+  </channel>
+</rss>

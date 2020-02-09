@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economy on me, jannik</title>
+    <link>https://janniktheyssen.github.io/tags/economy/</link>
+    <description>Recent content in economy on me, jannik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://janniktheyssen.github.io/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drawdown</title>
+      <link>https://janniktheyssen.github.io/books/drawdown/</link>
+      <pubDate>Thu, 06 Feb 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://janniktheyssen.github.io/books/drawdown/</guid>
+      <description>Drawdown by Paul Hawken Drawdown describes the 100 most substantive solutions to global warming.
+ Drawdown is an exceptional example of cooperation between some of the sharpest thinkers on climate and energy matters, an atlas that has the potential to save the planet. — Andreas Kuhlmann, CEO German Energy Agency
+ </description>
+    </item>
+    
+  </channel>
+</rss>

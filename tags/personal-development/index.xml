@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal development on me, jannik</title>
+    <link>https://janniktheyssen.github.io/tags/personal-development/</link>
+    <description>Recent content in personal development on me, jannik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://janniktheyssen.github.io/tags/personal-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daring Greatly</title>
+      <link>https://janniktheyssen.github.io/books/daring_greatly/</link>
+      <pubDate>Fri, 07 Feb 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://janniktheyssen.github.io/books/daring_greatly/</guid>
+      <description>Daring Greatly by Brené Brown How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+ What I find remarkable about this book is the unique combination of solid research and kitchen table story-telling. Brené becomes such a real person in the book that you can actually hear her voice asking, &amp;ldquo;Have you dared greatly today?&amp;rdquo; The invitation in this book is clear: We must be larger than anxiety, fear, and shame if we want to speak, act, and show up.</description>
+    </item>
+    
+  </channel>
+</rss>
